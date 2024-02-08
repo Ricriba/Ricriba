@@ -1,9 +1,10 @@
 
 <div align="center" > 
+  
   ## Olá! Eu sou o riba 
   
   <div >
-    <img src="https://github.com/Ricriba/Ricriba/assets/147273729/0250bec8-cb36-48a6-8f05-2e5be4285bf9">  
+    <img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif"width="700px">  
   </div>
   
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricriba&show_icons=true&theme=dracula&count_private=true)   
