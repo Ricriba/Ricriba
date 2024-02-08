@@ -7,7 +7,8 @@
   </div> 
   
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricriba&show_icons=true&theme=dracula&count_private=true)   
-
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricriba&layout=compact&hide_border=true&title_color=FF4500&text_color=6a5acd&bg_color=282936"/>
+  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/riba_sk8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-gabriel-1b04a7291)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@RichardEstelai)
