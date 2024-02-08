@@ -4,7 +4,7 @@
   ## Olá! Eu sou o riba 
   
   <div >
-    <img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif"width="700px">  
+    <img src=""width="700px">  
   </div>
   
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricriba&show_icons=true&theme=dracula&count_private=true)   
