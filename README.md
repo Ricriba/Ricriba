@@ -1,5 +1,9 @@
 ## Olá! Eu sou o riba 
 
+<div align="center">
+  <img src = "" width="400">
+</div>
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)   
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/riba_sk8)
