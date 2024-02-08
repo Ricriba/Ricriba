@@ -1,10 +1,12 @@
-## Olá! Eu sou o riba 
 
-<div align="center">
-  <img src = "" width="400">
-</div>
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)   
+<div align="center" > 
+  ## Olá! Eu sou o riba 
+  
+  <div >
+    <img src="https://github.com/Ricriba/Ricriba/assets/147273729/0250bec8-cb36-48a6-8f05-2e5be4285bf9">  
+  </div>
+  
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricriba&show_icons=true&theme=dracula&count_private=true)   
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/riba_sk8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-gabriel-1b04a7291)
