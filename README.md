@@ -2,8 +2,8 @@
   
   ## Olá! Eu sou o riba 
   
-  <div style="display: flex; align-items: center;">
-    <img src="https://github.com/Ricriba/Ricriba/assets/147273729/bdd12961-0587-473e-a3ca-eb7e97286895"width="400">  
+  <div  >
+    <img margin="21px" align="right"src="https://github.com/Ricriba/Ricriba/assets/147273729/bdd12961-0587-473e-a3ca-eb7e97286895"width="300">  
   </div> 
   
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricriba&show_icons=true&theme=dracula&count_private=true)   
