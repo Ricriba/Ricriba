@@ -9,8 +9,7 @@
 I built my programming foundation through TGPSI and hands-on practice. Now pursuing a degree in Cybersecurity to go deeper into secure systems and infrastructure. My focus is on combining real-world dev experience with security principles to build robust and scalable projects.
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricriba&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <img align="right" src="https://streak-stats.demolab.com?user=ricriba&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img align="center" src="https://streak-stats.demolab.com?user=ricriba&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 <br clear="both"/>
